@@ -66,6 +66,17 @@ Based on our implementation model, CityPulse operates on a robust modern stack:
 
 ---
 
+## 👥 Meet the Team
+
+| Team Member | Contribution |
+| :--- | :--- |
+| **Somya** | Idea generation, feature planning, project implementation, and integration of key features[cite: 7]. |
+| **Gunesh** | Idea generation, feature planning, project implementation, and integration of key features[cite: 7]. |
+| **Chirag** | Idea generation, feature planning, project implementation, and integration of key features[cite: 7]. |
+| **Anjali** | Idea generation, UI/UX design, and visual design of the project interface[cite: 7]. |
+
+---
+
 ## 🛠️ Run it Locally
 
 1. **Clone the repository**
